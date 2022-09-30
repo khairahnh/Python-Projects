@@ -47,6 +47,6 @@ I spent the most of my time on this mini project, trying to fix my bar plot. Ini
 ![catplot (1)](https://user-images.githubusercontent.com/100784629/193328075-8efd9dc9-e45c-4386-b249-969ff823cb5c.png)
 
 
-Managed to fix the issue when I realised that I didn't put parenthesis correctly. Yep, ==Python is a case sensitive language==. :sunglasses: 
+Managed to fix the issue when I realised that I didn't put parenthesis correctly. Yep, **Python is a case sensitive language** :sunglasses: 
 
 
