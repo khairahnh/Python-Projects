@@ -17,6 +17,9 @@ Carbon dioxide emission are the primary catalyst of global climate change. The W
 
 #### SEA COUNTRIES CO2 DASHBOARD
 
+![Screenshot 2022-10-18 at 9 09 46 AM](https://user-images.githubusercontent.com/100784629/196312283-22c905c4-ba5e-4845-b103-f8fe3b734904.png)
+
+
 
 https://user-images.githubusercontent.com/100784629/196244848-d75aea79-f683-4be7-8e57-d63123b47606.mov
 
