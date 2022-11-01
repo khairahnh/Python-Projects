@@ -27,4 +27,4 @@ You must use Pandas to answer the following questions:
 
 
 ### Dataset Source
-Dua, D. and Graff, C. (2019). UCI Machine Learning Repository. Irvine, CA: University of California, School of Information and Computer Science.
+Dua, D. and Graff, C. (2019). [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/adult). Irvine, CA: University of California, School of Information and Computer Science.
